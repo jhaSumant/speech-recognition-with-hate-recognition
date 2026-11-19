@@ -1,0 +1,50 @@
+timestamp,text,category,confidence,action
+2026-09-24 14:32:47,let's go this is so fucking good,profanity,0.9,mask
+2026-09-26 22:08:10,hello speech moderation test for testing switch moderation,normal,0.95,allow
+2026-09-26 22:09:40,hello how are you today,normal,0.95,allow
+2026-09-26 22:10:35,this is fucking annoying,profanity,0.9,mask
+2026-09-26 22:11:17,you are stupid,harassment,0.9,warn
+2026-09-26 22:13:32,I will hurt you,threat,0.9,block
+2026-09-26 22:14:31,this is racist,hate_speech,0.9,block
+2026-09-27 00:25:18,you are stupid,harassment,0.9847338795661926,warn
+2026-09-27 00:28:08,I hate people from that country,toxic_content,0.8222323060035706,flag
+2026-09-27 00:29:23,hello how are you doing today,normal,0.9989937748759985,allow
+2026-09-27 00:31:24,you are stupid,harassment,0.9847338795661926,warn
+2026-09-27 00:32:35,this is fucking annoying,profanity,0.989894688129425,mask
+2026-09-27 00:37:41,I will hurt you,threat,0.8397095203399658,block
+2026-09-27 00:39:46,am against racism,normal,0.9596048220992088,allow
+2026-09-29 01:52:43,is an analytical test blood testing Python 3,normal,0.9983268078649417,allow
+2026-09-29 01:56:27,hello we are testing the pipeline,normal,0.999337044544518,allow
+2026-10-07 19:40:00,I will kill you.,threat,0.9793,block
+2026-10-17 09:01:00,Speech could not be understood.,normal,0.9971,allow
+2026-10-17 21:22:52,railway station my ml pipeline,normal,0.9993,allow
+2026-10-25 13:10:14,Speech could not be understood.,normal,0.9971,allow
+2026-10-25 13:10:33,Speech could not be understood.,normal,0.9971,allow
+2026-10-25 13:11:07,Speech could not be understood.,normal,0.9971,allow
+2026-10-25 13:11:25,Speech could not be understood.,normal,0.9971,allow
+2026-10-25 13:22:12,hello this is speech recognition test you are fat or unbearable if I to which,normal,0.3974,allow
+2026-10-25 13:39:29,this is speech recognition test you are fat,harassment,0.8679,warn
+2026-10-27 17:44:10,Telugu wedding today you fat,toxic_content,0.7059,flag
+2026-10-27 19:10:56,latest English website,normal,0.9993,allow
+2026-10-27 19:11:18,railway station Python your fight,normal,0.9987,allow
+2026-10-27 19:11:36,traditional Python you are fat,harassment,0.9642,warn
+2026-10-28 18:42:18,hello this is python testing your fat your bitch,harassment,0.9934,warn
+2026-10-28 18:46:36,hello how,normal,0.9995,allow
+2026-10-28 18:46:48,hello,normal,0.9993,allow
+2026-10-28 18:49:50,hello how are you doing you are right you are a bitch,harassment,0.9956,warn
+2026-11-11 08:30:33,you are a fat bitch,harassment,0.9965,warn
+2026-11-11 08:31:16,Arvind ke liye,normal,0.9994,allow
+2026-11-11 08:31:35,I am going to kill you,threat,0.9783,block
+2026-11-11 08:31:55,hello how r u,normal,0.9852,allow
+2026-11-11 08:32:13,your fat,harassment,0.9835,warn
+2026-11-11 08:32:32,Arvind ke sath wedding,normal,0.9993,allow
+2026-11-11 08:32:50,Richard fat wedding,normal,0.8311,allow
+2026-11-13 11:24:48,fuck you motherfucker,harassment,0.9834,warn
+2026-11-13 11:25:12,fuck you bitch,harassment,0.9708,warn
+2026-11-13 11:25:50,you are fat and ugly,harassment,0.9966,warn
+2026-11-13 11:26:10,at wedding,normal,0.9994,allow
+2026-11-13 11:26:46,how are you doing,normal,0.9993,allow
+2026-11-13 11:27:05,picsart wedding,normal,0.9992,allow
+2026-11-13 11:27:24,Anant has a fat wedding,normal,0.6149,allow
+2026-11-13 11:29:17,your site and ugly,harassment,0.9021,warn
+2026-11-13 11:29:37,an ugly,harassment,0.9161,warn
